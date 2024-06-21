@@ -1,0 +1,34 @@
+.main{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    max-width: 70%;
+    margin: 0 auto;
+}
+.offers{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 80%;
+    margin: 0 auto;
+    
+
+}
+.offers p{
+    width: 100%;
+    text-decoration: none;
+}
+.offers a{
+    color: black;
+}
+.max{
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+.photos{
+    display: flex;
+    flex-wrap: wrap;
+}
